@@ -1,0 +1,22 @@
+# See https://backstage.io/docs/features/software-catalog/descriptor-format
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-doc-portal1
+  description: Test Doc Portal Documentation
+  # See https://backstage.io/docs/features/software-catalog/well-known-annotations
+  annotations:
+    github.com/project-slug: vsatgit/test-doc-portal1
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - documentation
+  links:
+    - url: https://github.com/vsatgit/test-doc-portal1
+      title: Test Doc Portal1
+      icon: github
+      type: service-repo
+spec:
+  type: service
+  lifecycle: production
+  owner: vsatgit
+  system: Test
