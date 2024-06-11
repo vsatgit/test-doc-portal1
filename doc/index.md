@@ -1,0 +1,1 @@
+This is an index file as backstage needs one.
