@@ -17,6 +17,6 @@ metadata:
       type: service-repo
 spec:
   type: service
-  lifecycle: production
+  lifecycle: experimental
   owner: vsatgit
   system: Test
