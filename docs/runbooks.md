@@ -1,6 +1,4 @@
 ---
-hide:
- - tags
 tags:
   - runbooks
   - debug
