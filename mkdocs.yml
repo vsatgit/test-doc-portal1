@@ -2,5 +2,10 @@ site_name: test-doc-portal1
 site_description: Test Doc Portal Documentation
 theme:
   name: material
+  features:
+   - navigation.top
+   - navigation.expand
+   - navigation.sections
+   - navigation.indexes
 plugins:
   - techdocs-core

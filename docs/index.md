@@ -1,3 +1,3 @@
-# This is an index file as backstage needs one
+# Test Doc Portal
 
-## TBD
+This is an index page that is required by backstage for documentation.
