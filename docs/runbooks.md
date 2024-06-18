@@ -2,6 +2,7 @@
 tags:
   - runbooks
   - debug
+  - test
 ---
 
 # Runbooks
