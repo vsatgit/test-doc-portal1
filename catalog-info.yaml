@@ -10,6 +10,8 @@ metadata:
     backstage.io/techdocs-ref: dir:.
   tags:
     - documentation
+    - debug
+    - integration
   links:
     - url: https://github.com/vsatgit/test-doc-portal1
       title: Test Doc Portal1
