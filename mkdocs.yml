@@ -9,6 +9,9 @@ theme:
    - navigation.indexes
    - header.autohide
    - announce.dismiss
+   - search.suggest
+   - search.highlight
+   - search.share
 plugins:
   - techdocs-core
   - search
@@ -17,6 +20,7 @@ plugins:
       globs:
         "debug-guide.md": "debug"
         "integration-guide.md": "integration"
+        "runbooks.md": "debug"
 markdown_extensions: 
   - pymdownx.superfences
   - pymdownx.inlinehilite
