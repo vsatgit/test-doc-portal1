@@ -7,6 +7,8 @@ theme:
    - navigation.expand
    - navigation.sections
    - navigation.indexes
+   - header.autohide
+   - announce.dismiss
 plugins:
   - techdocs-core
   - search
