@@ -1,4 +1,6 @@
 site_name: test-doc-portal1
 site_description: Test Doc Portal Documentation
+theme:
+  name: material
 plugins:
   - techdocs-core
