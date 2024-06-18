@@ -9,3 +9,14 @@ theme:
    - navigation.indexes
 plugins:
   - techdocs-core
+  - search
+  - tags
+  - autotag:
+      globs:
+        "debug-guide.md": "debug"
+        "integration-guide.md": "integration"
+markdown_extensions: 
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - toc:
+      permalink: true
