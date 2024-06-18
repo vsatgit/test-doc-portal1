@@ -1,3 +1,11 @@
+---
+hide:
+ - tags
+tags:
+  - runbooks
+  - debug
+---
+
 # Runbooks
 
 This is a basic example of documentation. It is intended to showcase some of the

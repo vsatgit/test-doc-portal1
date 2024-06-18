@@ -24,5 +24,6 @@ plugins:
 markdown_extensions: 
   - pymdownx.superfences
   - pymdownx.inlinehilite
+  - meta
   - toc:
       permalink: true
